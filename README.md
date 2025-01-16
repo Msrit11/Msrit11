@@ -27,5 +27,5 @@
 ## 📫 Let's Connect!
 - 🌐 **LinkedIn**: [Rajesh Giri](https://www.linkedin.com/in/rajesh-giri-6832aa212)
 - 🖥️ **GitHub**: [Msrit11](https://github.com/Msrit11)
-- 📧 **Email**: [rajesh.ind2001@gmail.com](mailto:rajesh.ind2001
+- 📧 **Email**: [rajesh.ind2001@gmail.com](mailto:rajesh.ind2001@gmail.com)
 
