@@ -1,6 +1,6 @@
-👋 Hi, I'm Rajesh Giri!
-🚀 About Me
-I'm a B.E. Electronics and Instrumentation Engineering student at Ramaiah Institute of Technology (2021-2025), passionate about software development, blockchain, and problem-solving.
+-👋 Hi, I'm Rajesh Giri!
+-🚀 About Me
+-I'm a B.E. Electronics and Instrumentation Engineering student at Ramaiah Institute of Technology (2021-2025), passionate about software development, blockchain, and problem-solving.
 🛠️ Technical Skills
 Languages: C++, Python, JavaScript, HTML/CSS.
 Frameworks & Tools: ReactJS, GitHub, Ethereum, Web3.js.
